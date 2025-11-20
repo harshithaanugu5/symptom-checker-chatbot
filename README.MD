@@ -115,6 +115,6 @@ It is **not** a medical diagnostic tool.
 
 **Sri Harshitha Anugu**
 AI / ML Engineer
-GitHub: <your GitHub link>
 
 ---
+
