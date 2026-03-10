@@ -114,9 +114,12 @@ It is **not** a medical diagnostic tool.
 ## 👩‍💻 **Author**
 
 **Sri Harshitha Anugu**
+
 AI / ML Engineer
-Git HUB: https://github.com/harshithaanugu5
+
+GithUB: https://github.com/harshithaanugu5
 
 ---
+
 
 
